@@ -1,0 +1,8 @@
+Name = "Postcounts Configuration"
+Description = "Adds, a module to the admin panel, from which you can configure a users postcounts."
+Author = "Antony Bailey & Freakin' Booty ;-P"
+Version = "1.0.0"
+Download_URL = "http://rapiddr3am.slackslash.net"
+Author_EMAIL = "antony_bailey@lycos.co.uk"
+Author_WEB = "http://rapiddr3am.slackslash.net"
+
